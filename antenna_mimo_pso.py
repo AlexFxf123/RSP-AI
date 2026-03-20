@@ -720,7 +720,7 @@ def main():
     mimo_array = MIMOAntennaArray(
         num_tx=3,
         num_rx=4,
-        virtual_aperture=20,
+        virtual_aperture=18,
         target_hpbw=4.0
     )
     
@@ -728,7 +728,7 @@ def main():
     pso_optimizer = PSOOptimizer(
         antenna_array=mimo_array,
         num_particles=50,
-        max_iter=200
+        max_iter=300
     )
     
     # Execute optimization

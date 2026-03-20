@@ -1,11 +1,11 @@
 MIMO Antenna Array Optimization Results
 ==================================================
-TX positions (half-wavelengths): [ 7. 11. 13.]
-RX positions (half-wavelengths): [15.  4. 18.]
-Virtual aperture: 20.00 half-wavelengths
-HPBW: 4.56 degrees
+TX positions (half-wavelengths): [ 3.  7. 13.]
+RX positions (half-wavelengths): [ 4.  7. 12.]
+Virtual aperture: 18.00 half-wavelengths
+HPBW: 5.72 degrees
 Mainlobe direction: 0.00 degrees
-Mainlobe region: -4.7° to 4.7°
-Maximum sidelobe level: -6.4 dB at -44.6°
+Mainlobe region: -7.8° to 7.8°
+Maximum sidelobe level: -7.1 dB at -25.6°
 Number of virtual elements: 9
 Number of unique virtual elements: 9
