@@ -720,7 +720,7 @@ def main():
     mimo_array = MIMOAntennaArray(
         num_tx=3,
         num_rx=4,
-        virtual_aperture=18,
+        virtual_aperture=20,
         target_hpbw=4.0
     )
     
